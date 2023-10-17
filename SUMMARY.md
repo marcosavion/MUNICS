@@ -8,6 +8,7 @@
 * [Lab2](mwr-static-analysis/lab2.md)
 * [Lab 3](mwr-static-analysis/lab-3.md)
 * [Lab 4](mwr-static-analysis/lab-4.md)
+* [Exam Summary](mwr-static-analysis/exam-summary.md)
 
 ## RED
 
