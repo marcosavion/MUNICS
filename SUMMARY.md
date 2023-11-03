@@ -12,4 +12,5 @@
 
 ## RED
 
+* [Capitulo 3](red/capitulo-3.md)
 * [Page 2](red/page-2.md)
