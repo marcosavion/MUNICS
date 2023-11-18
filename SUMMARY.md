@@ -10,6 +10,10 @@
 * [Lab 4](mwr-static-analysis/lab-4.md)
 * [Exam Summary](mwr-static-analysis/exam-summary.md)
 
+## MWR - DYNAMIC ANALYSYS
+
+* [Lab 1](mwr-dynamic-analysys/lab-1.md)
+
 ## RED
 
 * [Capitulo 3](red/capitulo-3.md)
