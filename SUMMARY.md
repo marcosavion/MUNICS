@@ -15,6 +15,7 @@
 * [Lab 1](mwr-dynamic-analysys/lab-1.md)
 * [Lab 2](mwr-dynamic-analysys/lab-2.md)
 * [Lab 3](mwr-dynamic-analysys/lab-3.md)
+* [Lab 4](mwr-dynamic-analysys/lab-4.md)
 
 ## RED
 
