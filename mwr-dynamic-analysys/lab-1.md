@@ -87,6 +87,10 @@ Once we have applied the filter, we can see one filter to WriteFile and nine Reg
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
+We often need to filter out a certain amount of noise, such as entries 0 and 3 through 9 in Figure 4. The RegSetValue on HKLM\SOFTWARE\Microsoft\Cryptography\RNG\Seed is typical noise in the results because the random number generator seed is constantly updated in the registry by software.
+
+
+
 
 
 
